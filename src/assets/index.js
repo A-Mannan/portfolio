@@ -37,6 +37,8 @@ import lottery from "./lottery.png"
 import gpaCalculator from "./gpaCalculator.png"
 import simulator from "./simulator.png"
 
+import profilePic from "./profilePic.png"
+
 export {
   logo,
   backend,
@@ -72,5 +74,6 @@ export {
   socialMediaApp,
   lottery,
   gpaCalculator,
-  simulator
+  simulator,
+  profilePic
 };

@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="text-center">
       <span className="block text-sm text-center text-gray-400">
-        Made with ❤️ by Abdul Mannan
+        Made with ❤️ by A.M
       </span>
 
       <ul className="flex justify-center mt-5 space-x-5 gap-x-3">
