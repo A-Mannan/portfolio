@@ -42,7 +42,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={profilePic} alt="logo" className="w-10 h-10 object-contain rounded-full" />
+          <img src={profilePic} alt="logo" className="w-14 h-14 object-contain rounded-full p-1 ring-2 ring-white" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             Abdul Mannan
           </p>

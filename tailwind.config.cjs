@@ -23,5 +23,15 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require("tailwind-typewriter")({
+      wordsets: {
+        skill: {
+          words: ["Web development", "Blockchain", "Web Automation", "Data Mining"],
+          delay: 2,
+          writeSpeed: 0.2
+        },
+      },
+    }),
+  ],
 };

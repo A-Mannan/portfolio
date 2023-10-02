@@ -5,8 +5,8 @@
   "type": "module",
   "homepage": "https://A-Mannan.github.io/portfolio/",
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
@@ -22,6 +22,7 @@
     "react-router-dom": "^6.8.1",
     "react-tilt": "^0.1.4",
     "react-vertical-timeline-component": "^3.6.0",
+    "tailwind-typewriter": "^1.0.1",
     "three": "^0.149.0"
   },
   "devDependencies": {
