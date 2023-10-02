@@ -61,6 +61,7 @@ const Navbar = () => {
             </li>
           ))}
           <a
+            download
             href="./abdul-mannan(resume).pdf"
             className="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium rounded-lg group bg-gradient-to-br from-purple-500 to-pink-500 group-hover:from-purple-500 group-hover:to-pink-500 hover:text-white text-white focus:ring-4 focus:outline-none focus:ring-purple-800"
           >
